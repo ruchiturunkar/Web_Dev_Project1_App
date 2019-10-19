@@ -1,8 +1,10 @@
 # 6 Holes
+
 ## Authors
 * Anagha Bhosale
 * Ruchit Urunkar
 
+![](6Holes.png)
 
 ### Game description
 
